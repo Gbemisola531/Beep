@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Gbemisola\\AndroidStudioProjects\\AppStory\\kohii-exoplayer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gbemisola\\.gradle\\caches\\transforms-3\\61acccfaa5da4b0e583a74dfb4979cab\\transformed\\appcompat-1.3.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Gbemisola\\AndroidStudioProjects\\AppStory\\kohii-exoplayer\\build\\intermediates\\merged_res\\debug\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gbemisola\\.gradle\\caches\\transforms-3\\61acccfaa5da4b0e583a74dfb4979cab\\transformed\\appcompat-1.3.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

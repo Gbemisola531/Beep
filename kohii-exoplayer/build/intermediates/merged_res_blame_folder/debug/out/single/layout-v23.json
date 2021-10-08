@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Gbemisola\\AndroidStudioProjects\\AppStory\\kohii-exoplayer\\build\\intermediates\\merged_res\\debug\\layout-v23\\exo_styled_player_control_ffwd_button.xml",
+        "source": "C:\\Users\\Gbemisola\\.gradle\\caches\\transforms-3\\12368af7a619dcc8051ecef5c3bac7f7\\transformed\\jetified-exoplayer-ui-2.14.0\\res\\layout-v23\\exo_styled_player_control_ffwd_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gbemisola\\AndroidStudioProjects\\AppStory\\kohii-exoplayer\\build\\intermediates\\merged_res\\debug\\layout-v23\\exo_styled_player_control_rewind_button.xml",
+        "source": "C:\\Users\\Gbemisola\\.gradle\\caches\\transforms-3\\12368af7a619dcc8051ecef5c3bac7f7\\transformed\\jetified-exoplayer-ui-2.14.0\\res\\layout-v23\\exo_styled_player_control_rewind_button.xml"
+    }
+]

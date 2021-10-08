@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Gbemisola\\AndroidStudioProjects\\AppStory\\kohii-exoplayer\\build\\intermediates\\merged_res\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Gbemisola\\.gradle\\caches\\transforms-3\\55610e6da332357fac2ae4dc08261766\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gbemisola\\AndroidStudioProjects\\AppStory\\kohii-exoplayer\\build\\intermediates\\merged_res\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Gbemisola\\.gradle\\caches\\transforms-3\\55610e6da332357fac2ae4dc08261766\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gbemisola\\AndroidStudioProjects\\AppStory\\kohii-exoplayer\\build\\intermediates\\merged_res\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Gbemisola\\.gradle\\caches\\transforms-3\\55610e6da332357fac2ae4dc08261766\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gbemisola\\AndroidStudioProjects\\AppStory\\kohii-exoplayer\\build\\intermediates\\merged_res\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Gbemisola\\.gradle\\caches\\transforms-3\\55610e6da332357fac2ae4dc08261766\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

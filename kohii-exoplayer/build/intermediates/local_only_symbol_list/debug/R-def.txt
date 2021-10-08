@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+id playerView
+layout kohii_player_spherical_view
+layout kohii_player_surface_view
+layout kohii_player_textureview
+string app_description
+string app_name
+string application_name
+string download_ads_unsupported
+string download_drm_unsupported
+string download_playlist_unsupported
+string download_scheme_unsupported
+string download_start_error
+string error_drm_not_supported
+string error_drm_unknown
+string error_drm_unsupported_scheme
+string error_generic
+string error_instantiating_decoder
+string error_no_decoder
+string error_no_secure_decoder
+string error_querying_decoders
+string error_unrecognized_abr_algorithm
+string error_unsupported_audio
+string error_unsupported_video
+string ima_not_loaded
+string sample_list_load_error
+string storage_permission_denied
+string unexpected_intent_action
